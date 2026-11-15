@@ -15,7 +15,7 @@ Hefest: Spacecraft & Habitat Fire Safety Intelligence Platform
 
 ### Field 2: High-Level Project Summary
 ```text
-Hefest is an interactive Scientific Intelligence (SI) powered fire safety intelligence platform that synthesizes decades of NASA microgravity combustion research from the Physical Science Informatics (PSI) repository. By mapping empirical measurements from landmark flight investigations (BASS, Saffire, FLEX, ACME, SAME) into predictive flammability models, Hefest empowers aerospace engineers to evaluate fire hazards in next-generation exploration atmospheres—including the oxygen-enriched, low-pressure environments of the Artemis Lunar Base (34% O2, 8.2 psi), Mars transit habitats, and pressurized rovers. The platform features an empirical SI flammability risk calculator, comparative crew habitat analysis, a real-time microgravity flame physics visualizer with continuous gravity and temperature morphing, and an actionable catalog of terrestrial spinoffs.
+Hefest is an interactive Super Intelligence (SI) powered fire safety intelligence platform that synthesizes decades of NASA microgravity combustion research from the Physical Science Informatics (PSI) repository. By mapping empirical measurements from landmark flight investigations (BASS, Saffire, FLEX, ACME, SAME) into predictive flammability models, Hefest empowers aerospace engineers to evaluate fire hazards in next-generation exploration atmospheres—including the oxygen-enriched, low-pressure environments of the Artemis Lunar Base (34% O2, 8.2 psi), Mars transit habitats, and pressurized rovers. The platform features an empirical SI flammability risk calculator, comparative crew habitat analysis, a real-time microgravity flame physics visualizer with continuous gravity and temperature morphing, and an actionable catalog of terrestrial spinoffs.
 ```
 
 ---
@@ -61,7 +61,7 @@ Hefest is built for aerospace systems engineers, Fire Detection and Suppression 
 
 ### Field 6: Use of Super-Intelligence (SI) / Artificial Intelligence
 ```text
-Hefest leverages Scientific Intelligence (SI) as an analytical synthesis engine to bridge fundamental microgravity research and operational engineering practice. AI tools were utilized to extract, classify, and structure complex flight telemetry and test outcomes from dozens of NASA PSI technical memorandums and datasets. The resulting intelligence model correlates empirical variables (O2 concentration, total pressure, flow velocity, and gravity acceleration) into predictive flammability risk scores aligned with NASA-STD-6001B protocols. This allows engineers to query complex multi-mission scenarios through intuitive parameters rather than manually parsing thousands of pages of raw flight data.
+Hefest leverages Super Intelligence (SI) as an analytical synthesis engine to bridge fundamental microgravity research and operational engineering practice. AI tools were utilized to extract, classify, and structure complex flight telemetry and test outcomes from dozens of NASA PSI technical memorandums and datasets. The resulting intelligence model correlates empirical variables (O2 concentration, total pressure, flow velocity, and gravity acceleration) into predictive flammability risk scores aligned with NASA-STD-6001B protocols. This allows engineers to query complex multi-mission scenarios through intuitive parameters rather than manually parsing thousands of pages of raw flight data.
 ```
 
 ---
@@ -86,5 +86,5 @@ European Space Agency (ESA) Columbus module safety guidelines; JAXA Kibo microgr
 
 ### Field 9: Project Tags / Keywords
 ```text
-Fire Safety, Microgravity, Physical Science Informatics, Artemis, Moon, Mars, Combustion, Flammability, Scientific Intelligence, NASA PSI, Saffire, BASS, ECLSS, Web Application
+Fire Safety, Microgravity, Physical Science Informatics, Artemis, Moon, Mars, Combustion, Flammability, Super Intelligence, NASA PSI, Saffire, BASS, ECLSS, Web Application
 ```
