@@ -24,7 +24,10 @@ Upload your 7-slide PDF or 30-sec video to Google Drive / YouTube and paste the 
 ---
 
 ### Link to Final Project
-Paste your GitHub repository link or live website deployment here.
+```text
+Live Web Application: https://hesfest.vercel.app
+GitHub Repository: https://github.com/Velsaf-dev/Hefest
+```
 
 ---
 

@@ -4,9 +4,8 @@
 > Developed for the **2026 NASA Space Apps Challenge**  
 > Challenge: *Flame in Freefall: SI-Powered Fire Safety Insights from Microgravity Combustion Data*
 
-<!-- LIVE DEPLOYMENT LINK PLACEHOLDER -->
-**Live Application:** https://hesfest.vercel.app/ 
-
+**Live Application:** [https://hesfest.vercel.app/](https://hesfest.vercel.app/)  
+**GitHub Repository:** [https://github.com/Velsaf-dev/Hefest](https://github.com/Velsaf-dev/Hefest)  
 
 ---
 
