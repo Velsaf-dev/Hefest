@@ -1,88 +1,90 @@
-# NASA Space Apps Challenge 2026 — Project Submission Copy-Paste
+# NASA Space Apps Challenge 2026 — Project Submission Dossier
 
-Use these texts directly in your form fields on the Space Apps submission portal.
+**Team Name:** Sirius+  
+**Challenge:** Flame in Freefall: SI-Powered Fire Safety Insights from Microgravity Combustion Data  
+**Project Name:** Hefest  
 
 ---
 
-### Project Name
+### Field 1: Project Title
 ```text
-Hesfest: SI-Driven Fire Safety & Flammability Intelligence for Space Exploration
+Hefest: Spacecraft & Habitat Fire Safety Intelligence Platform
 ```
 
 ---
 
-### High-Level Project Summary
+### Field 2: High-Level Project Summary
 ```text
-Hesfest is an interactive Super-Intelligence (SI) powered fire safety intelligence platform that synthesizes decades of NASA microgravity combustion research from the Physical Science Informatics (PSI) repository. By mapping experimental data from landmark flight investigations (BASS, Saffire, FLEX, ACME, SAME) into predictive flammability models, Hesfest empowers aerospace engineers to evaluate fire hazards in next-generation exploration atmospheres—including the oxygen-enriched, low-pressure environments of the Artemis Lunar Base (34% O2, 8.2 psi) and Mars transit vehicles. The platform features an empirical SI flammability calculator, comparative crew habitat analysis, a real-time microgravity flame physics visualizer with continuous gravity and temperature morphing, and a showcase of life-saving terrestrial spinoffs.
+Hefest is an interactive Scientific Intelligence (SI) powered fire safety intelligence platform that synthesizes decades of NASA microgravity combustion research from the Physical Science Informatics (PSI) repository. By mapping empirical measurements from landmark flight investigations (BASS, Saffire, FLEX, ACME, SAME) into predictive flammability models, Hefest empowers aerospace engineers to evaluate fire hazards in next-generation exploration atmospheres—including the oxygen-enriched, low-pressure environments of the Artemis Lunar Base (34% O2, 8.2 psi), Mars transit habitats, and pressurized rovers. The platform features an empirical SI flammability risk calculator, comparative crew habitat analysis, a real-time microgravity flame physics visualizer with continuous gravity and temperature morphing, and an actionable catalog of terrestrial spinoffs.
 ```
 
 ---
 
-### Link to Project Demo
-Upload your 7-slide PDF or 30-sec video to Google Drive / YouTube and paste the public link here.
-
----
-
-### Link to Final Project
+### Field 3: Link to Project Demo (Presentation or Video)
+*Upload your 7-slide PDF to Google Drive / OneDrive (set sharing to "Anyone with the link can view") or video to YouTube, and paste here:*
 ```text
-Live Web Application: https://hesfest.vercel.app
-GitHub Repository: https://github.com/Velsaf-dev/Hefest
+[Paste your Google Drive link to the 7-slide PDF here]
 ```
 
 ---
 
-### Detailed Project Description
+### Field 4: Link to Final Project
 ```text
-1. The Challenge & Core Problem
-Humanity is embarking on deep-space journeys to the Moon (Artemis) and Mars. To facilitate frequent EVAs without protracted decompression pre-breathing, lunar surface architectures operate under reduced pressure with elevated oxygen concentrations (e.g. 30–34% O2 at 8.2–10.2 psi). In these atmospheres, polymer flammability limits drop precipitously, turning minor electrical or friction events into rapid catastrophic fires.
+https://hesfest.vercel.app
+```
 
-NASA's Physical Science Informatics (PSI) holds invaluable flight datasets from decades of ISS and Cygnus investigations, but finding, cross-referencing, and translating this raw telemetry into actionable life-safety protocols has remained fragmented. Hesfest resolves this bottleneck.
+*(Also add GitHub link if field allows multiple links: https://github.com/Velsaf-dev/Hefest)*
 
-2. How Hesfest Works
-- NASA PSI Multi-Investigation Knowledge Matrix: Structured extraction of 8 flagship investigations (BASS, Saffire I-VI, FLEX, ACME BRE, CFI-G, SAME, DAFT, E-FIELD Flames) categorized by fuel phase (solid, liquid, gas, aerosols), facility (MSG, CIR/MDCA, Cygnus), and operational limits.
-- SI-Powered Empirical Flammability Engine: A multi-parameter mathematical model calibrating limiting oxygen index (LOI), flame spread velocity, and critical extinction thresholds based on NASA Glenn empirical regressions across oxygen fractions (15-100%), pressure (4-15 psi), airflow (0-35 cm/s), and partial gravity (0-1g).
-- Crew Habitation Safety Profiler: Direct comparative analysis across Artemis Lunar Base, ISS, EVA Spacesuits, Lunar Pressurized Rovers, and Mars Transit Modules with tailored suppression strategies (depressurization, CO2 flooding, fine water mist).
-- Physics-Based Microgravity Flame Visualizer: Interactive particle canvas demonstrating the absence of buoyant convection, spherical diffusion chemistry, and continuous morphing across gravity levels (0g to 1g) and reaction temperatures (400°C to 1500°C).
-- Terrestrial Dual-Use & Spinoff Integration: Direct mapping of NASA combustion innovations to municipal firefighter gear (PBI turn-out clothing, composite air tanks) and mining dust-tolerant smoke alarms.
+---
 
-3. Technical Stack & Deployment
-- Modern React 19 + TypeScript with strict editorial brutalist aerospace styling.
-- Pure client-side static deployment (zero-latency, zero-failure risk for jury evaluation).
-- Complete bilingual localization (RU/EN) and high-contrast readable layouts.
+### Field 5: Detailed Project Description
+
+```text
+1. The Challenge & Physical Context
+Humanity is preparing for long-duration deep-space exploration to the Moon (Artemis program) and Mars. To enable frequent extravehicular activities (EVAs) without protracted pre-breathing protocols, lunar and Martian surface habitats utilize Exploration Atmospheres characterized by reduced total pressure and elevated oxygen concentrations (e.g., 30–34% O2 at 8.2 psi). Under these conditions, the limiting oxygen concentration (LOC) drops significantly, increasing the flammability of polymers, fabrics, and structural materials.
+
+Furthermore, in microgravity (0g) and partial gravity (Moon 0.17g, Mars 0.38g), buoyant natural convection is suppressed or eliminated. Flames become spherical, diffusion-limited, and oxygen-starved unless fed by forced ventilation drafts. Combusting materials pool toxic byproducts locally, creating insidious hazards for crew survival and life support systems.
+
+2. How Hefest Works
+Hefest translates decades of raw NASA microgravity flight telemetry into an operational engineering intelligence platform:
+- Habitat Environment Profiling: Direct comparative analysis across 5 exploration compartments—Artemis Lunar Base, ISS, Mars Transit Modules, xEMU Extravehicular Suits, and Pressurized Rovers. Tracks oxygen fraction, ambient pressure, ventilation velocity, and gravity.
+- NASA PSI Flight Catalog: Structured indexing of flagship NASA flight investigations (BASS, Saffire I-VI, FLEX, ACME, and SAME), filtering by fuel phase, flow velocity, and combustion mode, complete with direct links to official NASA technical publications.
+- Empirical SI Risk Calculator: A multi-parameter evaluation engine that computes Limiting Oxygen Concentration (LOC), composite flammability risk ratings, and safety margins benchmarked against NASA-STD-6001B standards.
+- Microgravity Flame Physics Simulator: An interactive physical visualizer demonstrating the transition from elongated buoyant flames (1g) to spherical diffusion combustion (0g), tracking temperature gradients and soot distribution to inform smoke sensor placement.
+- Terrestrial Spinoffs & Dual-Use Technologies: Practical case studies detailing how NASA microgravity combustion research transfers to Earth safety—fine water mist suppression, submicron smoke aerosol detectors (SAME), and advanced flame-retardant PPE for firefighters.
+
+3. Who It Serves
+Hefest is built for aerospace systems engineers, Fire Detection and Suppression (FDS) designers, ECLSS specialists, academic researchers, professors, and university students seeking rapid access to space combustion intelligence.
 ```
 
 ---
 
-### Use of Super Intelligence (SI)
+### Field 6: Use of Super-Intelligence (SI) / Artificial Intelligence
 ```text
-Hesfest utilized Large Language Models and AI engineering tools as an assistive accelerator to extract, parse, and synthesize complex microgravity combustion literature from the NASA PSI repository and NASA technical reports (NASA-STD-6001B, Glenn Research Center technical memorandums). The underlying flammability ranking engine uses deterministic empirical regression models directly correlated to published Saffire and BASS flight data. All generated code and technical metadata were rigorously verified against official NASA Physical Sciences documentation.
+Hefest leverages Scientific Intelligence (SI) as an analytical synthesis engine to bridge fundamental microgravity research and operational engineering practice. AI tools were utilized to extract, classify, and structure complex flight telemetry and test outcomes from dozens of NASA PSI technical memorandums and datasets. The resulting intelligence model correlates empirical variables (O2 concentration, total pressure, flow velocity, and gravity acceleration) into predictive flammability risk scores aligned with NASA-STD-6001B protocols. This allows engineers to query complex multi-mission scenarios through intuitive parameters rather than manually parsing thousands of pages of raw flight data.
 ```
 
 ---
 
-### NASA Data & Resources Used
+### Field 7: Space Agency Data & Resources Used
 ```text
-1. NASA Physical Science Informatics (PSI) Database (Combustion Science Repository): Flight data from BASS, BASS-II, Saffire I-VI, FLEX, FLEX-2, ACME (BRE, CFI-G, E-FIELD), and SAME investigations.
-2. NASA Glenn Research Center: Combustion Science Research Program & Microgravity Science Division technical papers.
-3. NASA Technical Standards: NASA-STD-6001B ("Flammability, Offgassing, and Compatibility Requirements for Spacecraft Materials").
-4. NASA Spinoff Program Archive: Spinoff reports on firefighter lightweight composite air tanks, PBI fire-retardant fibers, and industrial smoke/dust optical discrimination sensors.
-5. NASA History & Safety Office: Formal investigation reports on Apollo 1, Apollo 13, and Mir station fire incidents.
+1. NASA Physical Science Informatics (PSI) Database — Combustion Science repository: Flight datasets and reports from BASS (Burning and Suppression of Solids), Saffire (Spacecraft Fire Safety Experiments I–VI), FLEX (Flame Extinguishment Experiment), ACME (Advanced Combustion via Microgravity Experiments), and SAME (Smoke Aerosol Measurement Experiment).
+2. NASA Technical Standards — NASA-STD-6001B ("Flammability, Offgassing, and Compatibility Requirements for Spacecraft Materials").
+3. NASA Glenn Research Center — Microgravity Combustion Science technical papers and empirical spread-rate regression models.
+4. NASA Spinoff Program Archive — Official reports on fine water mist suppression, PBI fire-retardant fibers, and submicron optical aerosol detection.
+5. NASA History & Safety Office — Technical incident archives on Apollo 1, Apollo 13, and Mir space station fire events.
 ```
 
 ---
 
-### Space Agency Partner Data and Other References
+### Field 8: Other Data & References
 ```text
-European Space Agency (ESA) Columbus laboratory life-support guidelines; JAXA Kibo combustion experiment coordination data; National Fire Protection Association (NFPA) standard for clean agent fire extinguishing systems.
+European Space Agency (ESA) Columbus module safety guidelines; JAXA Kibo microgravity experiment data; National Fire Protection Association (NFPA) standards for clean agent and fine water mist fire suppression.
 ```
 
 ---
 
-## 7-Slide Pitch Deck Plan (Strict NASA Limit: Max 7 Slides)
-- **Slide 1:** Title, Team Name, NASA Space Apps Challenge 2026.
-- **Slide 2:** The Problem — Microgravity fire hazards, Artemis Lunar Base elevated O2 (34%) making materials >2.5x more flammable.
-- **Slide 3:** NASA PSI Flight Data — Synthesizing BASS, Saffire, FLEX, ACME, and SAME into a coherent matrix.
-- **Slide 4:** Hesfest Dashboard — Real-time habitat risk comparison and PSI flight database query system.
-- **Slide 5:** SI Flammability Engine — Empirical mathematical model for flame spread velocity, extinction limits, and CO2 suppression.
-- **Slide 6:** Physics & Earth Spinoffs — Interactive gravity/temperature flame morphing + life-saving terrestrial firefighter spinoffs.
-- **Slide 7:** Impact & Future — Protecting Moon & Mars crews, turning open NASA data into operational astronaut safety.
+### Field 9: Project Tags / Keywords
+```text
+Fire Safety, Microgravity, Physical Science Informatics, Artemis, Moon, Mars, Combustion, Flammability, Scientific Intelligence, NASA PSI, Saffire, BASS, ECLSS, Web Application
+```
