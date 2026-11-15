@@ -5,8 +5,8 @@
 > Challenge: *Flame in Freefall: SI-Powered Fire Safety Insights from Microgravity Combustion Data*
 
 <!-- LIVE DEPLOYMENT LINK PLACEHOLDER -->
-**Live Application:** `[YOUR LIVE DEMO LINK HERE]`  
-**Project Presentation (7 Slides):** `[YOUR GOOGLE SLIDES / PDF LINK HERE]`
+**Live Application:** https://hesfest.vercel.app/ 
+
 
 ---
 
@@ -116,66 +116,7 @@ hesfest/
 
 ---
 
-## 6. Getting Started Locally
 
-### Prerequisites
-* Node.js (version 18+ recommended)
-* npm (version 9+ recommended)
-
-### Installation & Run
-
-```bash
-# 1. Clone the repository
-git clone [YOUR GITHUB REPOSITORY URL HERE]
-cd hesfest
-
-# 2. Install dependencies
-npm install
-
-# 3. Start local development server
-npm run dev
-```
-
-Open `http://localhost:5173/` in your browser.
-
-### Production Build
-
-```bash
-npm run build
-```
-
-The optimized static production bundle is generated in the `dist/` directory in under 1 second.
-
----
-
-## 7. Deployment Guide
-
-Because Hesfest is a pure static application, it can be deployed in under 2 minutes:
-
-### Option A: Vercel (Recommended)
-1. Push this repository to GitHub.
-2. Go to [vercel.com](https://vercel.com) and click **Add New Project**.
-3. Import your `hesfest` repository.
-4. Framework Preset: **Vite** (Build command: `npm run build`, Output directory: `dist`).
-5. Click **Deploy**. Your live URL will be ready in 30 seconds.
-
-### Option B: GitHub Pages
-1. In `package.json`, add `"homepage": "https://<username>.github.io/<repo-name>"`.
-2. Run `npm install gh-pages --save-dev`.
-3. In `package.json` scripts, add `"deploy": "gh-pages -d dist"`.
-4. Run `npm run build && npm run deploy`.
-
----
-
-## 8. NASA Data Sources & References
-
-1. **NASA Physical Sciences Informatics (PSI) Repository:** [psi.nasa.gov](https://psi.nasa.gov/physci/repo/search?q=combustion)
-2. **NASA Glenn Research Center:** Combustion Science Research & Microgravity Science Division.
-3. **NASA Standard:** NASA-STD-6001B (*Flammability, Offgassing, and Compatibility Requirements for Spacecraft Materials*).
-4. **NASA Spinoff Program:** [spinoff.nasa.gov](https://spinoff.nasa.gov/)
-5. **NASA Safety & Mission Assurance:** Investigation reports on Apollo 1, Apollo 13, and Mir station fire incidents.
-
----
 
 ## License
 
